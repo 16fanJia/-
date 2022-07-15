@@ -1,0 +1,9 @@
+{
+  "etcd": {
+    "endpoints": ["192.168.2.2:2379"],
+    "dialTimeout": 5000
+  },
+  "mongodb": {
+    "url": "mongodb://localhost:27017"
+  }
+}
